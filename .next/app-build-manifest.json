@@ -1,0 +1,116 @@
+{
+  "pages": {
+    "/not-found": [
+      "static/chunks/webpack-1f5337af2d6ebed0.js",
+      "static/chunks/fd9d1056-87da80e0c187477b.js",
+      "static/chunks/117-db03c3021d529b02.js",
+      "static/chunks/main-app-303ad5498b2d35d3.js",
+      "static/chunks/972-773d843e15e97eb0.js",
+      "static/chunks/app/not-found-10c98fd138959c73.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack-1f5337af2d6ebed0.js",
+      "static/chunks/fd9d1056-87da80e0c187477b.js",
+      "static/chunks/117-db03c3021d529b02.js",
+      "static/chunks/main-app-303ad5498b2d35d3.js",
+      "static/chunks/app/_not-found/page-c1bbe1b4bc8170a6.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-1f5337af2d6ebed0.js",
+      "static/chunks/fd9d1056-87da80e0c187477b.js",
+      "static/chunks/117-db03c3021d529b02.js",
+      "static/chunks/main-app-303ad5498b2d35d3.js",
+      "static/css/31fb80953015e26b.css",
+      "static/chunks/972-773d843e15e97eb0.js",
+      "static/chunks/app/layout-bb0f97000c9ea57c.js"
+    ],
+    "/error": [
+      "static/chunks/webpack-1f5337af2d6ebed0.js",
+      "static/chunks/fd9d1056-87da80e0c187477b.js",
+      "static/chunks/117-db03c3021d529b02.js",
+      "static/chunks/main-app-303ad5498b2d35d3.js",
+      "static/chunks/972-773d843e15e97eb0.js",
+      "static/chunks/app/error-13bf090751122222.js"
+    ],
+    "/kontakty/page": [
+      "static/chunks/webpack-1f5337af2d6ebed0.js",
+      "static/chunks/fd9d1056-87da80e0c187477b.js",
+      "static/chunks/117-db03c3021d529b02.js",
+      "static/chunks/main-app-303ad5498b2d35d3.js",
+      "static/chunks/972-773d843e15e97eb0.js",
+      "static/chunks/app/kontakty/page-493952fc12580105.js"
+    ],
+    "/cookies/page": [
+      "static/chunks/webpack-1f5337af2d6ebed0.js",
+      "static/chunks/fd9d1056-87da80e0c187477b.js",
+      "static/chunks/117-db03c3021d529b02.js",
+      "static/chunks/main-app-303ad5498b2d35d3.js",
+      "static/chunks/972-773d843e15e97eb0.js",
+      "static/chunks/app/cookies/page-e017fca245a18b62.js"
+    ],
+    "/kargo-dostavka-iz-kitaya/page": [
+      "static/chunks/webpack-1f5337af2d6ebed0.js",
+      "static/chunks/fd9d1056-87da80e0c187477b.js",
+      "static/chunks/117-db03c3021d529b02.js",
+      "static/chunks/main-app-303ad5498b2d35d3.js",
+      "static/chunks/972-773d843e15e97eb0.js",
+      "static/chunks/app/kargo-dostavka-iz-kitaya/page-79530688d602bbc8.js"
+    ],
+    "/mezhdunarodnye-platezhi/page": [
+      "static/chunks/webpack-1f5337af2d6ebed0.js",
+      "static/chunks/fd9d1056-87da80e0c187477b.js",
+      "static/chunks/117-db03c3021d529b02.js",
+      "static/chunks/main-app-303ad5498b2d35d3.js",
+      "static/chunks/972-773d843e15e97eb0.js",
+      "static/chunks/app/mezhdunarodnye-platezhi/page-2a56f923dd2e5d5f.js"
+    ],
+    "/otzyvy/page": [
+      "static/chunks/webpack-1f5337af2d6ebed0.js",
+      "static/chunks/fd9d1056-87da80e0c187477b.js",
+      "static/chunks/117-db03c3021d529b02.js",
+      "static/chunks/main-app-303ad5498b2d35d3.js",
+      "static/chunks/972-773d843e15e97eb0.js",
+      "static/chunks/app/otzyvy/page-7b29cbb3f857aded.js"
+    ],
+    "/politika-konfidentsialnosti/page": [
+      "static/chunks/webpack-1f5337af2d6ebed0.js",
+      "static/chunks/fd9d1056-87da80e0c187477b.js",
+      "static/chunks/117-db03c3021d529b02.js",
+      "static/chunks/main-app-303ad5498b2d35d3.js",
+      "static/chunks/972-773d843e15e97eb0.js",
+      "static/chunks/app/politika-konfidentsialnosti/page-59854d9812d56e09.js"
+    ],
+    "/oplata-invoisov-v-kitae/page": [
+      "static/chunks/webpack-1f5337af2d6ebed0.js",
+      "static/chunks/fd9d1056-87da80e0c187477b.js",
+      "static/chunks/117-db03c3021d529b02.js",
+      "static/chunks/main-app-303ad5498b2d35d3.js",
+      "static/chunks/972-773d843e15e97eb0.js",
+      "static/chunks/app/oplata-invoisov-v-kitae/page-92149712b81dc484.js"
+    ],
+    "/popolnenie-wechat-pay/page": [
+      "static/chunks/webpack-1f5337af2d6ebed0.js",
+      "static/chunks/fd9d1056-87da80e0c187477b.js",
+      "static/chunks/117-db03c3021d529b02.js",
+      "static/chunks/main-app-303ad5498b2d35d3.js",
+      "static/chunks/972-773d843e15e97eb0.js",
+      "static/chunks/app/popolnenie-wechat-pay/page-2cf1be6b9cd6be3d.js"
+    ],
+    "/popolnenie-alipay/page": [
+      "static/chunks/webpack-1f5337af2d6ebed0.js",
+      "static/chunks/fd9d1056-87da80e0c187477b.js",
+      "static/chunks/117-db03c3021d529b02.js",
+      "static/chunks/main-app-303ad5498b2d35d3.js",
+      "static/chunks/972-773d843e15e97eb0.js",
+      "static/chunks/app/popolnenie-alipay/page-b2ef71d62c80a445.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-1f5337af2d6ebed0.js",
+      "static/chunks/fd9d1056-87da80e0c187477b.js",
+      "static/chunks/117-db03c3021d529b02.js",
+      "static/chunks/main-app-303ad5498b2d35d3.js",
+      "static/chunks/972-773d843e15e97eb0.js",
+      "static/chunks/app/page-1a2d15f0d6ad7f1d.js"
+    ]
+  }
+}
